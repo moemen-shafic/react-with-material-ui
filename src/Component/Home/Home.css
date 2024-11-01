@@ -1,0 +1,29 @@
+.home {
+
+    text-align: center;
+    align-items: center;
+    font-size: 40px;
+    color: aqua;
+    border: 2px solid ;
+    padding: 10px;
+    border-radius: 25%;
+    background-color: black;
+}
+.classname{
+    font-size: 200px;
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:red;
+    width: 80vw;
+    height: 70vh;
+    /* background-color: blue; */
+    padding: 0;
+    margin: 0;
+    background-image: url('/wallpaperflare.com_wallpaper\ \(18\).jpg');
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+   
+}
